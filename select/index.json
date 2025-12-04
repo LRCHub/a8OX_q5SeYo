@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "人生オーバー",
+  "base_artist": "harha",
+  "createdAt": "2025-12-04T06:50:33.228098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人生オーバー",
+      "artist": "harha",
+      "has_synced": true,
+      "path": "select/01_人生オーバー_harha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生オーバー",
+      "artist": "harha",
+      "has_synced": false,
+      "path": "select/pl_01_人生オーバー_harha.txt"
+    }
+  ]
+}
